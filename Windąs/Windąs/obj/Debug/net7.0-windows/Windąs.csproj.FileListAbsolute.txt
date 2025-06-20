@@ -1,0 +1,64 @@
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.exe
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.deps.json
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.runtimeconfig.json
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.dll
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.pdb
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.Form1.resources
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.GenerateResource.cache
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfoInputs.cache
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfo.cs
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.CoreCompileInputs.cache
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.dll
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\refint\Windąs.dll
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.pdb
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.genruntimeconfig.cache
+C:\Users\Student-s2043\Desktop\Windąs\Windąs\obj\Debug\net7.0-windows\ref\Windąs.dll
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.dll
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\refint\Windąs.dll
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.pdb
+C:\Ato robie\okienka\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.exe
+C:\Ato robie\okienka\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.deps.json
+C:\Ato robie\okienka\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.runtimeconfig.json
+C:\Ato robie\okienka\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.dll
+C:\Ato robie\okienka\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.pdb
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.Form1.resources
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.GenerateResource.cache
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfoInputs.cache
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfo.cs
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.CoreCompileInputs.cache
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.genruntimeconfig.cache
+C:\Ato robie\okienka\Windąs\Windąs\obj\Debug\net7.0-windows\ref\Windąs.dll
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.exe
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.deps.json
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.runtimeconfig.json
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.dll
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.pdb
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.Form1.resources
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.GenerateResource.cache
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfoInputs.cache
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfo.cs
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.CoreCompileInputs.cache
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.dll
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\refint\Windąs.dll
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.pdb
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.genruntimeconfig.cache
+C:\Users\EmilA\Downloads\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\ref\Windąs.dll
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.exe
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.deps.json
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.runtimeconfig.json
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.dll
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\bin\Debug\net7.0-windows\Windąs.pdb
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.Form1.resources
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.GenerateResource.cache
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfoInputs.cache
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.AssemblyInfo.cs
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.csproj.CoreCompileInputs.cache
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.dll
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\refint\Windąs.dll
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.pdb
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\Windąs.genruntimeconfig.cache
+C:\Users\EmilA\OneDrive\Pulpit\Emil\Studia\Rok 2\C#\Windas\Windąs\Windąs\obj\Debug\net7.0-windows\ref\Windąs.dll
